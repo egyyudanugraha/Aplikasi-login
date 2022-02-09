@@ -1,6 +1,7 @@
 # Aplikasi-login
 Sebuah aplikasi dengan fitur login
 
-1. Menambahkan berkas Alur Fitur Login
-2. Mengubah konten sesuai dengan yang diminta
-3. Melihat perubahan yang dilakukan pada setiap versi.
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman home.
